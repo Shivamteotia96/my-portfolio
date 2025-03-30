@@ -2,6 +2,9 @@
 
 A modern and responsive portfolio website built with HTML, CSS, and JavaScript.
 
+## Live Demo
+Visit the live website: [https://shivamteotia96.github.io/my-portfolio](https://shivamteotia96.github.io/my-portfolio)
+
 ## Features
 
 - Responsive design that works on all devices
