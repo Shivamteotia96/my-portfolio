@@ -26,7 +26,7 @@ A modern and responsive portfolio website built with HTML, CSS, and JavaScript.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Shivamteotia96/my-portfolio.git
 ```
 
 2. Open `index.html` in your browser to view the website.
@@ -45,4 +45,4 @@ Shivam Chaudhary
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
